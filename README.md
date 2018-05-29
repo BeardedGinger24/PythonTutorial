@@ -1,7 +1,7 @@
 # PythonTutorial
 
 
-I have made this repository to refresh my memory on how to use github and to post my notes for python.
+I am learing Python using a textbook called Python Crash Course (located in python_work folder).
 
 
 *Just a reminder for me*
