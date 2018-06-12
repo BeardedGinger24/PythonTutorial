@@ -39,7 +39,7 @@ print(motorcycles)	# gives: ['ducati', 'honda', 'yamaha', 'suzuki']
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
 
-del motorcycles[0]
+del(motorcycles[0]) 
 print(motorcycles)
 
 # remove an element and store the value, use pop()
