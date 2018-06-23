@@ -1,0 +1,5 @@
+In Python you can work with lists
+In Python you can get user input
+In Python you can create functions
+In Python you can use classes
+In Python you can read files
